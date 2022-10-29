@@ -1,0 +1,1 @@
+https://larainfo.com/blogs/how-to-install-tailwind-css-with-npm
